@@ -1,0 +1,6 @@
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00037.jpg
+Datetime:5/21/2024 12:00:00 AM
+30_Road Work
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00195.jpg
+Datetime:5/22/2024 12:00:00 AM
+1_Compulsory Keep Left

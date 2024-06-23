@@ -1,0 +1,12 @@
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00005.jpg
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00023.jpg
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00001.jpg
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00004.jpg
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00094.jpg
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00001.jpg
+Imagefile location:E:\PTSD_Recognition\PTSD_Recognition\test\PTSD_00067.jpg
+Datetime:5/31/2024 12:00:00 AM
+
+22_One way Traffic
+16_Maximum Speed 90
+
