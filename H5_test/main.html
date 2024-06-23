@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" minimum-scale=1.0 maximum-scale=1.0 user-scalable=no>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <title>Help and feedback</title>
+    
+</head>
+<body> 
+    <script src="main.js"></script>
+    <div id="firstblock">
+        <h1 id="titlename">Traffic sign registration and recognition system</h1>
+        <ul class="list">
+            <li class="sublist"><a href="#"><p class="letters">Download&nbsp;</p></a></li>
+            <li class="sublist"><a href="#"><p class="letters">&nbsp;&nbsp;Support and service&nbsp;&nbsp;</p></a></li>
+            <li class="sublist"><a href="#"><p class="letters">&nbsp;Recognition system models&nbsp;</p></a></li>
+        </ul>
+    </div>
+    <div id="secondblock">
+        <div class="block">
+            <h2 style="text-align:center;color: aliceblue;font-size: larger;font-weight:bolder;">Feedback information</h2>
+            <form action="main.js" name="user" method="post" style="position: relative;text-align: center;background-color: aliceblue;">
+                Name: <input type="text" id="name" name="name" >
+                <br>
+                Phone: <input type="text" id="phone" name="phone" >
+                <br>
+                Gender: <input type="radio" id="male" name ="male" onclick="check1()">male<input type="radio" id="female" name="female" onclick="check2()">female
+                <br>
+                Country:<select>
+                    <option value="Poland">Poland</option>
+                    <option value="China">China</option>
+                    <option value="Belarus">Belarus</option>
+                    <option value="France">France</option>
+                </select>
+                <br>
+                <textarea id="feed" name="feed" rows="10" cols="60" ></textarea>
+                <br>
+                <button type="Submit" id="submit" onclick="feedback()">Submit</button>&nbsp;&nbsp;
+                <button type="reset" id="clean" >Clean</button>
+
+        </div>
+
+
+    </div>
+
+    <div id="lastblock">
+        <ul id="down_list">
+            <li class="downlist"><a ><p class="downletters">More information&nbsp;</p></a></li>
+            <li class="downlist"><a ><p class="downletters">&nbsp;&nbsp;Consult&nbsp;&nbsp;</p></a></li>
+            <li class="downlist"><a ><p class="downletters">&nbsp;Our strategic partners&nbsp;</p></a></li>
+        </ul>
+
+    </div>
+    
+    
+</body>
+</html>
+
